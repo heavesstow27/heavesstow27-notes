@@ -1,6 +1,6 @@
-# Ideas — day 281
+# Scratch — day 281
 
-- reviewed algorithms notes
-- drafted a design
-- next: write tests
-- seed: 388b7eb4
+- reviewed sql notes
+- refactored a checklist
+- next: read docs
+- seed: 19239729
