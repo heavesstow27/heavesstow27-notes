@@ -1,6 +1,6 @@
-# Todo — day 283
+# Drafts — day 283
 
-- reviewed python notes
-- refactored a checklist
-- next: benchmark
-- seed: 418daeb8
+- reviewed go notes
+- outlined a script
+- next: write tests
+- seed: 4cb220b9
