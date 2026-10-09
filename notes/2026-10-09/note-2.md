@@ -1,6 +1,6 @@
-# Ideas — day 282
+# Scratch — day 282
 
 - reviewed algorithms notes
-- cleaned up a design
-- next: benchmark
-- seed: bf8725a8
+- refactored a script
+- next: read docs
+- seed: 3d38ca61
