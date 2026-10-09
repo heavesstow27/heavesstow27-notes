@@ -1,6 +1,6 @@
 # Ideas — day 282
 
-- reviewed typescript notes
-- outlined a script
+- reviewed algorithms notes
+- cleaned up a design
 - next: benchmark
-- seed: f7907bc5
+- seed: bf8725a8
