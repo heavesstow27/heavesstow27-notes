@@ -1,6 +1,6 @@
 # Ideas — day 281
 
-- reviewed python notes
-- refactored a module
-- next: add examples
-- seed: 5133b6d2
+- reviewed algorithms notes
+- drafted a design
+- next: write tests
+- seed: 388b7eb4
